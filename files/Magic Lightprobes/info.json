@@ -1,0 +1,8 @@
+{
+Name: Keos Lightprobes Generator;
+Description: Original idea from P1, made my own version out of it and it works pretty fine.;
+Requirements: Colliders on Objects;
+Creators: Keo.CS;
+Tutorial: /;
+VersionCode: 1;
+}

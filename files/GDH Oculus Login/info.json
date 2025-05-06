@@ -1,0 +1,7 @@
+{
+Name: GDH Oculus Login;
+Description: Logs you into oculus, Working IAP, Working Achievements, Can find login details (like oculus nonce, id, and pfp), and Currency IAP;
+Requirements: Oculus, Playfab, PUN 2;
+Creators: ThatOneGorilla;
+VersionCode: 1.1;
+}

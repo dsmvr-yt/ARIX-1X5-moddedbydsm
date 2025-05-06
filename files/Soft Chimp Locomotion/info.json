@@ -1,6 +1,7 @@
 {
 Name: Soft Chimp Locomotion;
 Description: Better version of gorilla rig (It fixes Sticky Movement);
+Requirements: Unity 6;
 Creators: Anemunt;
 VersionCode: 10;
 }

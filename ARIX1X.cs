@@ -12,8 +12,8 @@ using System.Text.RegularExpressions;
 
 public class ARIX1X5 : EditorWindow
 {
-    private const string GitHubApiUrl = "https://api.github.com/repos/ShadowVr122/ARIX-1X5-V2/contents";
-    private const string RawGitHubUrl = "https://raw.githubusercontent.com/ShadowVr122/ARIX-1X5-V2/main";
+    private const string GitHubApiUrl = "https://api.github.com/repos/dsmvr-yt/ARIX-1X5-moddedbydsm/contents";
+    private const string RawGitHubUrl = "https://raw.githubusercontent.com/dsmvr-yt/ARIX-1X5-moddedbydsm/main";
     private const string SplashImagePath = "Assets/Keos Stuff/Icons/Arix 1X5 Banner.png";
     private const string IntroAudioPath = "Assets/Keos Stuff/Icons/ARIX 1X5 Intro.mp3";
     private const string FilesFolder = "files";
